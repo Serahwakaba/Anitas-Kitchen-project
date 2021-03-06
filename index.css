@@ -40,6 +40,7 @@
       border: radius 2px;
       
   }
+
 p{
     display:inline-block;
     margin-top:100%;
@@ -52,4 +53,27 @@ background-color:orangered;
 width:100%;
 padding-right: 660%;
 height:53%;
+}
+#text {
+    z-index: 100;
+    position: absolute;
+    color: rgb(14, 12, 12);
+    font-size: 24px;
+    font-weight: bold;
+    left: 150px;
+    top: 350px;
+  }
+.fastfood{
+    display:block;
+    padding-left: 350px;
+    border: radius 5%;
+}
+.fastfood{
+    display:block;
+    padding-top: 10%;
+    box-sizing: border-box;
+    border: 10%;
+    border-color: black;
+    border-block-width: 20%;
+    height:50%;
 }
