@@ -1,0 +1,13 @@
+.landing{
+    background-image: url(./images/landing.jpg);
+
+}
+.image{
+    height: 600px;
+    width: 1300px;
+}
+.menu{
+    text-align: center;
+    padding-top:10%;
+    padding-left: 7%;
+}
