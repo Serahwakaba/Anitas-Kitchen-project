@@ -3,11 +3,26 @@
 
 }
 .image{
-    height: 600px;
+    height: 550px;
     width: 1300px;
 }
 .menu{
     text-align: center;
-    padding-top:10%;
+    padding-top:2%;
     padding-left: 7%;
+}
+.logo{
+    color:white;
+    padding-left:7%;
+    padding-top: 5%;
+}
+.menu h1{
+    color:white;
+    font-family:Calibri;
+    font-size:xx-large;
+    font-weight:lighter;
+    margin:auto;
+    padding-top:2%;
+
+
 }
