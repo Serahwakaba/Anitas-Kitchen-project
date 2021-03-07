@@ -269,4 +269,14 @@ ul {
 .c{
     padding: 70px;
     border: 3px solid whitesmoke;
+    font-size:12px;
+}
+.size{
+    display:inline-flex;
+}
+.footer{
+    height: 550px;
+    width: 1500px;
+    background-color:#F15A29;
+
 }
