@@ -282,3 +282,23 @@ ul {
     font-size:30px;
 
 }
+#form{
+    display:flex;
+    background-color:#F15A29;
+    width:180px;
+    font-size:20px;
+   
+
+
+
+}
+#for{
+    background-color:gray;
+    border-width:20px;
+    border-color:rgba(255, 255, 255, 0.068);
+    font-size:20px;
+}
+.footercontent{
+    padding-left: 30%;
+    padding-top:10%;
+}
