@@ -138,6 +138,7 @@ padding-bottom:100px;
     height:0px;
     font-size: 15px;
     text-align: right;
+    padding-left:20%;
 }
 .p{
     margin-left:20%;
@@ -146,4 +147,12 @@ padding-bottom:100px;
 }
 .i{
     display:inline-flex;
+    margin: left 0;
+    min-width: 0%;
+}
+.drink2{
+    margin-right:60%;
+    padding-right:0ch;
+
+
 }
