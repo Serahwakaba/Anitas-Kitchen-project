@@ -275,7 +275,7 @@ ul {
     display:inline-flex;
 }
 .footer{
-    height: 550px;
+    height: 600px;
     width: 1500px;
     background-color:#F15A29;
     color: white;
@@ -287,13 +287,9 @@ ul {
     background-color:#F15A29;
     width:180px;
     font-size:20px;
-   
-
-
-
 }
 #for{
-    background-color:gray;
+    background-color:rgb(168, 157, 157);
     border-width:20px;
     border-color:rgba(255, 255, 255, 0.068);
     font-size:20px;
@@ -301,4 +297,16 @@ ul {
 .footercontent{
     padding-left: 30%;
     padding-top:10%;
+}
+.mnu{
+    padding-top: 7%;
+    padding-left: 40%;
+    display:inline-flex;
+    stroke-width: 1;
+    clear:left;
+    font-size:10%;
+}
+.socialmedia{
+    padding-left: 40%;
+ 
 }
